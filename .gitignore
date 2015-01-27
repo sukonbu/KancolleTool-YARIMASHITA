@@ -1,0 +1,10 @@
+﻿*.png
+*.jpg
+*.bmp
+
+*.mp3
+*.wav
+
+data/
+Debug/
+Release/
